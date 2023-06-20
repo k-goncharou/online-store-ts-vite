@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Modems",
+    "price": 240,
+    "imgUrl": "/pictures/Modems.jpeg"
+},
+  {
+    "id": 2,
+    "name": "Outdoor cameras",
+    "price": 499,
+    "imgUrl": "/pictures/OutdoorCam.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Power banks",
+    "price": 89,
+    "imgUrl": "/pictures/PowerBank.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Routers",
+    "price": 365,
+    "imgUrl": "/pictures/Routers"
+  },
+  {
+    "id": 5,
+    "name": "WiFi extenders",
+    "price": 240,
+    "imgUrl": "/pictures/WiFiExtenders.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "X1 equipment",
+    "price": 240,
+    "imgUrl": "/pictures/X1"
+  }
+]
